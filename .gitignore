@@ -2,3 +2,4 @@ node_modules/*
 data/*
 mongo_log/*
 data_uit.json
+*~
