@@ -1,0 +1,982 @@
+[
+  {
+    "id": "06520107",
+    "name": "Đinh Diệp Duy",
+    "subject": "Cử nhân tài năng"
+  },
+  {
+    "id": "06520124",
+    "name": "Lê Hoàng Hòa",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520109",
+    "name": "Ngô Nguyên Duy",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520116",
+    "name": "Nguyễn Trần Duyệt",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520112",
+    "name": "Võ Đinh Duy",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520126",
+    "name": "Nguyễn Ngọc Hà",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520110",
+    "name": "Phạm Ngọc Duy",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520111",
+    "name": "Phan Đình Duy",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520120",
+    "name": "Nguyễn Lê Trúc Giang",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520108",
+    "name": "Đoàn Khương Duy",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520122",
+    "name": "Nguyễn Văn Giang",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520118",
+    "name": "Hoàng Trường Giang",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520113",
+    "name": "Võ Minh Duy",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520114",
+    "name": "Hàng Kim Duyên",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520129",
+    "name": "Nguyễn Việt Hà",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520121",
+    "name": "Nguyễn Thu Giang",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520136",
+    "name": "Lê Minh Hải",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520131",
+    "name": "Phan Việt Hà",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520147",
+    "name": "Trần Nguyên Hào",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520144",
+    "name": "Đặng Ngọc Hạnh",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520148",
+    "name": "Đào Minh Hậu",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520150",
+    "name": "Đặng Trung Hiền",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520149",
+    "name": "Phan Văn Hậu",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520151",
+    "name": "Đỗ Thị Ngọc Hiền",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520123",
+    "name": "Võ Trường Giang",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520142",
+    "name": "Võ Nguyễn Đăng Hải",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520145",
+    "name": "Nguyễn Dương Hào",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520140",
+    "name": "Phạm Minh Hải",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520153",
+    "name": "Nguyễn Văn Hiền",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520135",
+    "name": "Lê Đăng Hải",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520155",
+    "name": "Nghiêm Xuân Hiệp",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520161",
+    "name": "Bùi Quang Hiếu",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520160",
+    "name": "Bùi Minh Hiếu",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520139",
+    "name": "Nguyễn Minh Hải",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520134",
+    "name": "Hồng Việt Hải",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520152",
+    "name": "Nguyễn Trung Hi",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520154",
+    "name": "Nguyễn Hoàng Hiển",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520177",
+    "name": "Dương Thị Kim Hoàng",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520168",
+    "name": "Trịnh Minh Hiếu",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520169",
+    "name": "Nguyễn Đức Hiệu",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520127",
+    "name": "Nguyễn Thị Vũ Hà",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520181",
+    "name": "Nguyễn Thái Hoàng",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520182",
+    "name": "Nguyễn Thanh Hoàng",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520172",
+    "name": "Phan Vũ Tiến Hoà",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520176",
+    "name": "Phan Hoài",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520188",
+    "name": "Ngeou Siêu Hùng",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520183",
+    "name": "Nguyễn Tuấn Hoàng",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520193",
+    "name": "Huỳnh Kim Hưng",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520174",
+    "name": "Nguyễn Huy Khánh Hoà",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520180",
+    "name": "Nguyễn Hữu Hoàng",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520201",
+    "name": "Huỳnh Văn Huy",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520187",
+    "name": "Liêu Đức Hùng",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520199",
+    "name": "Trần Thị Hường",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520194",
+    "name": "Nguyễn Thuận Hưng",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520189",
+    "name": "Nguyễn Minh Hùng",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520175",
+    "name": "Đặng Lê Hoài",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520170",
+    "name": "Nguyễn Văn Hiệu",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520164",
+    "name": "Lê Minh Hiếu",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520195",
+    "name": "Tống Hải Hưng",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520204",
+    "name": "Nguyễn Đình Huy",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520196",
+    "name": "Trịnh Gia Hưng",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520202",
+    "name": "Lê Quang Huy",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520156",
+    "name": "Nguyễn Hoàng Hiệp",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520203",
+    "name": "Ngô Đạo Huy",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520186",
+    "name": "Châu Kim Hùng",
+    "subject": "Cử nhân tài năng"
+  },
+  {
+    "id": "06520192",
+    "name": "Cao Văn Hưng",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520208",
+    "name": "Nguyễn Vũ Huy",
+    "subject": "Cử nhân tài năng"
+  },
+  {
+    "id": "06520212",
+    "name": "Cao Văn Huỳnh",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520162",
+    "name": "Đoàn Thế Hiếu",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520220",
+    "name": "Trần Long Khánh",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520210",
+    "name": "Trương Quang Huy",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520219",
+    "name": "Nguyễn Hồng Khánh",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520207",
+    "name": "Nguyễn Tuấn Huy",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520209",
+    "name": "Phạm Trương Quang Huy",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520191",
+    "name": "Phan Xuân Hùng",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520200",
+    "name": "Nguyễn Hữu Hữu",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520206",
+    "name": "Nguyễn Thanh Huy",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520215",
+    "name": "Nguyễn Vĩnh Kha",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520213",
+    "name": "Đinh Nam Kha",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520226",
+    "name": "Lê Tấn Khoa",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520197",
+    "name": "Vũ Ngọc Hưng",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520230",
+    "name": "Nguyễn Việt Khoa",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520216",
+    "name": "Đào Ngọc Khải",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520222",
+    "name": "Huỳnh Thiện Kiêm",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520217",
+    "name": "Nguyễn Tuấn Khải",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520211",
+    "name": "Phạm Thị Thanh Huyền",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520221",
+    "name": "Vũ Duy Khánh",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520225",
+    "name": "Lê Nguyễn Khoa",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520218",
+    "name": "Hà Minh Khánh",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520224",
+    "name": "Cao Đăng Khoa",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520233",
+    "name": "Nguyễn Nguyên Khôi",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520166",
+    "name": "Trần Trung Hiếu",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520138",
+    "name": "Nguyễn Khương Hải",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "04010528",
+    "name": "Nguyễn Ngọc Hợp",
+    "subject": ""
+  },
+  {
+    "id": "01235",
+    "name": "Thành viên mới",
+    "subject": ""
+  },
+  {
+    "id": "06520227",
+    "name": "Lưu Thái Đăng Khoa",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520231",
+    "name": "Trần Tiến Khoa",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520236",
+    "name": "Lưu Chí Kiên",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520235",
+    "name": "Hồ Trung Kiên",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520234",
+    "name": "Phan Thanh Khuyên",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "04050055",
+    "name": "Traàn Vaên  Dö",
+    "subject": "Đào tạo từ xa"
+  },
+  {
+    "id": "00520110",
+    "name": "Phạm Huỳnh Đức Huy",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "04050036",
+    "name": "Nguyễn Bỉnh  Khiêm",
+    "subject": "Đào tạo từ xa"
+  },
+  {
+    "id": "06520163",
+    "name": "Huỳnh Trung Hiếu",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520228",
+    "name": "Ngô Tự Đăng Khoa",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "04050089",
+    "name": "Nguyễn Cao  Trường",
+    "subject": "Đào tạo từ xa"
+  },
+  {
+    "id": "04050465",
+    "name": "Huỳnh Thị Kim  Sinh",
+    "subject": "Đào tạo từ xa"
+  },
+  {
+    "id": "06050006",
+    "name": "Nguyeãn Coâng Chöùc",
+    "subject": "Đào tạo từ xa"
+  },
+  {
+    "id": "05050012",
+    "name": "Nguyeãn Vuõ Lam Hoàng",
+    "subject": "Đào tạo từ xa"
+  },
+  {
+    "id": "06050012",
+    "name": "Phaïm Thò Nhö Duyeân",
+    "subject": "Đào tạo từ xa"
+  },
+  {
+    "id": "06520001",
+    "name": "Hồ Ngọc An",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520004",
+    "name": "Lê Thanh An",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520002",
+    "name": "Lê Nguyễn Thúy An",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520005",
+    "name": "Nguyễn Lê Phú An",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520006",
+    "name": "Nguyễn Thanh An",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520011",
+    "name": "Châu Việt Anh",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520008",
+    "name": "Nguyễn Minh Ân",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520013",
+    "name": "Huỳnh Tuấn Anh",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520023",
+    "name": "Nguyễn Huy Bảo",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520007",
+    "name": "Võ Nguyên Minh An",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520017",
+    "name": "Nguyễn Phương Anh",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520009",
+    "name": "Phạm Đình Ân",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520012",
+    "name": "Huỳnh Tuấn Anh",
+    "subject": "Cử nhân tài năng"
+  },
+  {
+    "id": "06520024",
+    "name": "Trần Hoàng Vĩnh Bảo",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520028",
+    "name": "Lê Thái Bình",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520025",
+    "name": "Đỗ Đình Biên",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520033",
+    "name": "Lê Minh Chánh",
+    "subject": "Cử nhân tài năng"
+  },
+  {
+    "id": "06520019",
+    "name": "Phạm Võ  Hoài Anh",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520015",
+    "name": "Nguyễn Khắc Bảo Anh",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520029",
+    "name": "Nguyễn Thái Bình",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520040",
+    "name": "Vũ Thị Lan Thi",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520030",
+    "name": "Nguyễn Thái Bình",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520031",
+    "name": "Võ Khải Hoàng Ca",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520020",
+    "name": "Phạm Hồng Ảnh",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520037",
+    "name": "Hà Thị Thùy Chi",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520032",
+    "name": "Bùi Thái Chánh",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520027",
+    "name": "Hồ Thanh Bình",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520018",
+    "name": "Phạm Tuấn Anh",
+    "subject": "Cử nhân tài năng"
+  },
+  {
+    "id": "06520042",
+    "name": "Nguyễn Thế Chiến",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520026",
+    "name": "Nguyễn Phước Biển",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520048",
+    "name": "Bùi Văn Chương",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520022",
+    "name": "Lê Đình Bằng",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520038",
+    "name": "Lê Thị Phương Chi",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520059",
+    "name": "Nguyễn Phú Cường",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520046",
+    "name": "Trần Viễn Chinh",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520035",
+    "name": "Lê Văn Minh Châu",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520049",
+    "name": "Đỗ Hoàng Chương",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520060",
+    "name": "Nguyễn Phước Cường",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520034",
+    "name": "Đinh Hồng Châu",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520039",
+    "name": "Nguyễn Linh Chi",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520053",
+    "name": "Ngô Chí Công",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520052",
+    "name": "Lê Thành Công",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520062",
+    "name": "Trần Huy Cường",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520043",
+    "name": "Đỗ Ngọc Kiều Chinh",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520045",
+    "name": "Trần Đức Thịnh",
+    "subject": "Cử nhân tài năng"
+  },
+  {
+    "id": "06520016",
+    "name": "Nguyễn Ngọc Lan Anh",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520056",
+    "name": "Nguyễn Kim Cương",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520057",
+    "name": "Nguyễn Kim Cương",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520061",
+    "name": "Nguyễn Quốc Cường",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520054",
+    "name": "Nguyễn Văn Cúc",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520073",
+    "name": "Nguyễn Minh Đạt",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520051",
+    "name": "Lê Thành Công",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520044",
+    "name": "Nguyễn Duy Chinh",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520075",
+    "name": "Phạm Văn Đạt",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520082",
+    "name": "Huỳnh Trần Đoàn",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520076",
+    "name": "Trần Văn Đạt",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520067",
+    "name": "Tô Trọng Danh",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520070",
+    "name": "Hồ Anh Đạt",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520072",
+    "name": "Mai Minh Đạt",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520080",
+    "name": "Phạm Khắc Điệp",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520089",
+    "name": "Lê Phước Phát Đạt Đức",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520094",
+    "name": "Đỗ Văn Dũng",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520065",
+    "name": "Nguyễn Quốc Đại",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520078",
+    "name": "Nguyễn Mạnh Điền",
+    "subject": "Cử nhân tài năng"
+  },
+  {
+    "id": "06520087",
+    "name": "Huỳnh Minh Đức",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520086",
+    "name": "Phan Đông",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520066",
+    "name": "Huỳnh Công Danh",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520063",
+    "name": "Trần Quốc Cường",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520071",
+    "name": "Lê Huy Bảo Đạt",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520069",
+    "name": "Đỗ Quang Đạt",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520092",
+    "name": "Đoàn Thị Thanh Dung",
+    "subject": ""
+  },
+  {
+    "id": "06520091",
+    "name": "Trần Ngọc Đức",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520090",
+    "name": "Nguyễn Xuân Đức",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520095",
+    "name": "Huỳnh Quốc Dũng",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520098",
+    "name": "Nguyễn Tiến Dũng",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520077",
+    "name": "Vũ Tiến Đạt",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520068",
+    "name": "Trần Công Danh",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520093",
+    "name": "Bùi Tiến Dũng",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520081",
+    "name": "Phạm Quý Định",
+    "subject": "Kỹ thuật máy tính"
+  },
+  {
+    "id": "06520102",
+    "name": "Đào Mạnh Dương",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520097",
+    "name": "Nguyễn Tiến Dũng",
+    "subject": "Khoa học máy tính"
+  },
+  {
+    "id": "06520104",
+    "name": "Ngô Thị Thùy Dương",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520088",
+    "name": "Lâm Hữu Đức",
+    "subject": "Hệ thống thông tin"
+  },
+  {
+    "id": "06520099",
+    "name": "Trần Khải Dũng",
+    "subject": "Công nghệ phần mềm"
+  },
+  {
+    "id": "06520100",
+    "name": "Trần Quốc Dũng",
+    "subject": "Mạng máy tính & truyền thông"
+  },
+  {
+    "id": "06520101",
+    "name": "Đào Bá Dương",
+    "subject": "Hệ thống thông tin"
+  }
+]

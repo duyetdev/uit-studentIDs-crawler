@@ -4,10 +4,9 @@
   "description": "Crawler Students ID of UIT from UIT Forum",
   "main": "index.js",
   "dependencies": {
-    "bson": "^0.2.20",
     "crawler": "^0.4.3",
+    "jsonfile": "^2.0.0",
     "lazy": "^1.0.11",
-    "mongoose": "^3.8.25",
     "node-range": "^0.1.0",
     "url": "^0.10.3"
   },

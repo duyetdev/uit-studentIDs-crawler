@@ -1,11 +1,32 @@
 # UIT StudentIDs Crawler
 
 Author: Van-Duyet Le <lvduit08@gmail.com>.
+Homepage: http://lvduit.com
 
 Base on Nodejs
 
 # What's that?
 Simple crawler, to get all data about UIT student (ID, name, subjects)
+
+# Setup crawler env
+Please make sure you have Nodejs already installed.
+
+1. Clone the script from Git server
+	cd ~/project  # move to project folder (options)
+	git clone https://github.com/lvduit/UIT-StudentIDs-Crawler.git
+	cd ./UIT-StudentIDs-Crawler
+
+2. Install Nodejs Dependencies
+	npm install
+
+3. Start crawler 
+	node ./index.js
+
+4. Getting the output file `result.json`
+
+
+# Just for my tiny project
+This module just for mime, for example. 
 
 # Results?
 Yes, I finish them, get some data for my project. 

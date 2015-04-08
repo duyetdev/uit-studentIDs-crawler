@@ -4,15 +4,16 @@
 var Lazy = require('lazy');
 var Crawler = require("crawler");
 var url = require('url');
-var mongoose = require('mongoose');
 
 // Variable 
 var baseUrl = 'http://forum.uit.edu.vn/';
 var memberListUrl = baseUrl + 'memberlist.php?&pp=100';	// http://forum.uit.edu.vn/memberlist.php?page=2&order=asc&sort=username
 var pages = Lazy.range(1, 309); // 308
 
-mongoose.connect('mongodb://localhost/uit');
-var Students = mongoose.model('Students', { id: String, name:String, subject:String });
+
+var Students = [];
+
+//var Students = mongoose.model('Students', { id: String, name:String, subject:String });
 
 var isStudentId = function (name) {
 	return (name - 0) == name && (''+name).trim().length > 0;
@@ -26,6 +27,13 @@ var c = new Crawler({
 
 	onDrain: function() {
 		console.log('Done!');
+		var jf = require('jsonfile');
+		var file = 'result.json';
+		
+		jf.writeFile(file, Students, function(err) {
+		  console.log(err);
+		  process.exit(0);
+		});
 	}, 
 
     // This will be called for each crawled page
@@ -41,18 +49,12 @@ var c = new Crawler({
 
 				console.log(studentId + ' -- ' + studentName + ' -- ' + subject);
 
-				var record = new Students({
+				Students.push({
 					id: studentId,
 					name: studentName,
 					subject: subject
 				});
 
-				record.save(function(err) {
-					if (err) {
-						console.log('Error when save student detail!');
-						console.log(err);
-					}
-				})
 			} else {
 				$('#memberlist_table tr td.username').each(function(index, u) {
 					var studentId = $(u).children('a').text();
