@@ -1,11 +1,12 @@
 # UIT StudentIDs Crawler
 
-Author: Van-Duyet Le <lvduit08@gmail.com>.
+Author: Van-Duyet Le <lvduit08@gmail.com>
+
 Homepage: http://lvduit.com
 
 Base on Nodejs
 
-# What's that?
+# What's this?
 Simple crawler, to get all data about UIT student (ID, name, subjects)
 
 # Setup crawler env
